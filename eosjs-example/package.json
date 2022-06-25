@@ -12,7 +12,7 @@
   "dependencies": {
     "dotenv": "^8.0.0",
     "eosjs": "^20.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "util": "^0.12.1"
   }
 }
